@@ -4,7 +4,6 @@ In my first programming project, you play as a creeper (a Minecraft mob) whose o
 Steve isn't the only monster...
 ![Ghast reigns fury on the creeper](/rdme/ghast.png "Ghast")
 Stay until the end for the epic conclusion!
-![Creeper lurks behind Steve](/rdme/tragic.png "Tragic")
 ## Installation
 1. Download & Install [Processing](https://processing.org/)
 2. Open Processing
